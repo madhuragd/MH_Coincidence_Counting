@@ -6,4 +6,6 @@ MH_Correlation_Run_Direct.py contains a simple code processing the counts and pl
 
 Note: We are not affiliated with PicoQuant and this is a demo code developed for academic purposes. Not supported officially, please use it at your discretion.
 
+Similar repository link: https://github.com/Aprameyan-Desikan/MH_Correlation_Demo
+
 For contact: aprameyan.des@gmail.com; madhuraghoshdastidar@gmail.com
