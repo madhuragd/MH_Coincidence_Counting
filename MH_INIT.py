@@ -167,7 +167,7 @@ def tryfunc(retcode, funcName, measRunning=False):
         else:
             closeDevices()
 
-print("\nMultiHarp MHLib Demo Application                      PicoQuant GmbH, 2022")
+print("\nMultiHarp MHLib for Live g2 acquisition and plotting")
 print("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 mhlib.MH_GetLibraryVersion(libVersion)
 print("Library version is %s" % libVersion.value.decode("utf-8"))
